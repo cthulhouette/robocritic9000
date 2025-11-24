@@ -2,6 +2,9 @@ RoboCritic9000
 
 RoboCritic9000 is an interactive project evaluation tool designed to provide automated feedback on technical descriptions. Users input their project descriptions, and the system evaluates them based on key criteria such as innovativeness, feasibility, and relevance. The application generates a score for each criterion and offers a sarcastic critique, delivered in either English or Bangla. With playful sound effects and text-to-speech functionality, RoboCritic9000 adds a humorous twist to project reviews.
 
+<img width="871" height="911" alt="image" src="https://github.com/user-attachments/assets/54bab47a-ee73-48db-aed5-a49e00f866e3" />
+
+
 Description
 
 1. User Input:
